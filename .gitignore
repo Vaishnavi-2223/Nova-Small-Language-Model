@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Dataset files - keep local
+dataset/
+
+# Model checkpoints - distribute through GitHub Releases
+checkpoints/*.pth
+
+# Local backups
+NovaPt_backup*/
+NovaPt_pre_organization_backup/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Operating system
+.DS_Store
+Thumbs.db

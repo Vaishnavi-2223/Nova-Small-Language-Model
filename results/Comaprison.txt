@@ -1,0 +1,37 @@
+(Projects) PS C:\Users\vaish\OneDrive\Desktop\Projects\NovaPt> python compare_nova.py
+
+Loading Nova v1...
+Nova v1 loaded successfully!
+
+Loading Nova v2...
+Nova v2 loaded successfully!
+
+============================================================
+          NOVA MODEL COMPARISON
+============================================================
+
+PROMPT: Once upon a time
+
+========== NOVA V1: CHARACTER LEVEL ==========
+Once upon a time the che the fow Sof andise wang fonlre , oroune sting , stithe atherin ale thes antin sicantherint anthe t theng ang the , or wa an wane t ane throng sthe s tris alio the font alired onched als , a w
+
+========== NOVA V2: BPE TOKENIZER ==========
+Once upon a time , and the hand , and the MacLevotion of the Madon , and the basis .
+
+
+
+
+
+ The north - economination of the bitcy of the few months , and the bookships , and located and the popularity of the bests of the breeds of tropical structures .
+
+
+
+ The st
+
+========== MODEL INFORMATION ==========
+Nova v1 vocabulary: 1014
+Nova v1 parameters: 466934
+Nova v2 vocabulary: 1000
+Nova v2 parameters: 669416
+
+Comparison completed!

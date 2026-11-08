@@ -1,0 +1,6 @@
+
+torch
+tokenizers==0.23.3
+
+# Optional: required by export_dataset.py
+datasets
